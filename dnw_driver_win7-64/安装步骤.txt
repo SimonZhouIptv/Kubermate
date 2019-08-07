@@ -1,0 +1,9 @@
+此驱动适用于win7 64位的系统
+安装之前需要解决此驱动的数字签名 .最好的办法就是通deseo13b.exe破解
+破解过程如下:
+1 .打开 deseo13b.exe
+2 .select "enable text mode"  > next > ok
+2.选择"Sign a System File", 点击Next,弹出的对话框内输入无签名的驱动程序文件全路径,如我的是D:\9tripodDownlods\DNWforwin7\win7-64 dnw usb driver\inf64   点击"OK".提示成功后确定,退出软件,重启Windows. 
+4. 重启电脑
+5. 打开设备管理器 更新SEC S5PC110 Test B/D.的驱动程序
+6. 选择D:\9tripodDownlods\DNWforwin7\win7-64 dnw usb driver\inf64 目录下的.inf文件  
